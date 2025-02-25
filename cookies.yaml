@@ -1,0 +1,11 @@
+cookies:
+  - "sso=XXXX-xxxxx"
+  - "sso=XXXX-xxxxx"
+
+password: "your_password" 
+
+user_agent:
+  - "Mozilla/5.0 (Linux; Android 12; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/547.36"
+  - "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/601.1.15"
+  - "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0"
+
