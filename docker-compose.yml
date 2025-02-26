@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  app:
+    image: grokproxy
+    ports:
+      - "8080:8000"
+    volumes:
+      - ./cookies.yaml:/app/cookies.yaml
