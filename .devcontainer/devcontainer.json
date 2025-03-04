@@ -1,0 +1,6 @@
+{
+  "image": "grokproxy",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/app,type=bind,consistency=cached",
+  "workspaceFolder": "/app",
+  "forwardPorts": [8000]
+}
